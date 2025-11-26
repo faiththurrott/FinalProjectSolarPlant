@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 
 using FTD2XX_NET;
 
